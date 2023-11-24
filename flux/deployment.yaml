@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: mhussain78/hello-argocd:0.0.2
+          image: mhussain78/hello-argocd:0.0.1
           ports:
             - containerPort: 8088
